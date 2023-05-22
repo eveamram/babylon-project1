@@ -1,5 +1,5 @@
 {
-  "name": "six",
+  "name": "babylon-eve",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babylonjs": "^4.1.0",
-    "babylonjs-gui": "^4.1.0",
-    "babylonjs-loaders": "^4.1.0",
-    "babylonjs-materials": "^4.1.0",
-    "ts-loader": "^8.0.1",
-    "typescript": "^3.9.7",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "babylonjs": "^6.4.1",
+    "babylonjs-gui": "^6.4.1",
+    "babylonjs-loaders": "^6.4.1",
+    "babylonjs-materials": "^6.4.1",
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.4",
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
   }
 }
